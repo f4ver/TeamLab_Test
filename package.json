@@ -1,0 +1,22 @@
+{
+  "name": "teamlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-inject": "^5.0.5",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.2"
+  }
+}
